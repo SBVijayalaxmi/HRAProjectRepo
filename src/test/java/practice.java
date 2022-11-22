@@ -6,6 +6,7 @@ public class practice
 		public void main(String[] args)
 		{
 		System.out.println("script 1");
+		System.out.println("Script 2");
 			
 		}
 	}
